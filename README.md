@@ -487,10 +487,10 @@ The scatter plot showing the relationship between model year and electric range 
 ### Research Paper Comparison
 The comparison with the Congressional Budget Office (CBO) working paper provides a broader context for understanding the impact of federal policies on EV adoption. Both the Shiny application and the CBO paper emphasize the critical role of tax incentives and federal subsidies in driving the adoption of electric vehicles. The alignment of findings between the localized analysis (Washington state) and the national projections reinforces the validity of the conclusions drawn.
 
-#Link to our Kanban 
+# Link to our Kanban 
 https://github.com/users/WhyIsArnav/projects/1
 
-#Link to ShinyApp
+# Link to ShinyApp
 
 
 
