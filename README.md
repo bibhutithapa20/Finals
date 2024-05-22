@@ -1,5 +1,5 @@
-# Final Project 
-## Contributer 
+# Final Project: Electric Vehicle Data Analysis
+## Contributors 
 - Arnav
 - Bibhuti
 
